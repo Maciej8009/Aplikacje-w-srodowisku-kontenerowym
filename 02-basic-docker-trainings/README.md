@@ -108,103 +108,103 @@ screenshot 23
 ---
 
 ## **Zadanie 2**
-![screenshot 00](images/ex2/screenshot_0.png)
+![screenshot 00](images/ex2/Screenshot_0.png)
 
 screenshot 0
 ---
-![screenshot 01](images/ex2/screenshot_1.png)
+![screenshot 01](images/ex2/Screenshot_1.png)
 
 screenshot 01
 ---
-![screenshot 02](images/ex2/screenshot_2.png)
+![screenshot 02](images/ex2/Screenshot_2.png)
 
 screenshot 02
 ---
-![screenshot 03](images/ex2/screenshot_3.png)
+![screenshot 03](images/ex2/Screenshot_3.png)
 
 screenshot 03
 ---
-![screenshot 04](images/ex2/screenshot_4.png)
+![screenshot 04](images/ex2/Screenshot_4.png)
 
 screenshot 04
-![screenshot 04-1](images/ex2/screenshot_4-1.png)
+![screenshot 04-1](images/ex2/Screenshot_4-1.png)
 
 screenshot 04-1
 ---
-![screenshot 05](images/ex2/screenshot_5.png)
+![screenshot 05](images/ex2/Screenshot_5.png)
 
 screenshot 05
 ---
-![screenshot 06](images/ex2/screenshot_6.png)
+![screenshot 06](images/ex2/Screenshot_6.png)
 
 screenshot 06
 ---
-![screenshot 07](images/ex2/screenshot_7.png)
+![screenshot 07](images/ex2/Screenshot_7.png)
 
 screenshot 07
 ---
-![screenshot 08](images/ex2/screenshot_8.png)
+![screenshot 08](images/ex2/Screenshot_8.png)
 
 screenshot 08
 ---
-![screenshot 09](images/ex2/screenshot_9.png)
+![screenshot 09](images/ex2/Screenshot_9.png)
 
 screenshot 09
 ---
 
-![screenshot 10](images/ex2/screenshot_10.png)
+![screenshot 10](images/ex2/Screenshot_10.png)
 
 screenshot 10
 ---
 
 ## **Zadanie 3**
 
-![screenshot 00](images/ex3/screenshot_0.png)
+![screenshot 00](images/ex3/Screenshot_0.png)
 
 screenshot 0
 ---
-![screenshot 01](images/ex3/screenshot_1.png)
+![screenshot 01](images/ex3/Screenshot_1.png)
 
 screenshot 01
 ---
-![screenshot 02](images/ex3/screenshot_2.png)
+![screenshot 02](images/ex3/Screenshot_2.png)
 
 screenshot 02
 ---
-![screenshot 03](images/ex3/screenshot_3.png)
+![screenshot 03](images/ex3/Screenshot_3.png)
 
 screenshot 03
 ---
-![screenshot 04](images/ex3/screenshot_4.png)
+![screenshot 04](images/ex3/Screenshot_4.png)
 
 screenshot 04
 ---
-![screenshot 05](images/ex3/screenshot_5.png)
+![screenshot 05](images/ex3/Screenshot_5.png)
 
 screenshot 05
 ---
-![screenshot 06](images/ex3/screenshot_6.png)
+![screenshot 06](images/ex3/Screenshot_6.png)
 
 screenshot 06
 ---
-![screenshot 07](images/ex3/screenshot_7.png)
+![screenshot 07](images/ex3/Screenshot_7.png)
 
 screenshot 07
 ---
-![screenshot 08](images/ex3/screenshot_8.png)
+![screenshot 08](images/ex3/Screenshot_8.png)
 
 screenshot 08
 ---
-![screenshot 09](images/ex3/screenshot_9.png)
+![screenshot 09](images/ex3/Screenshot_9.png)
 
 screenshot 09
 ---
 
-![screenshot 10](images/ex3/screenshot_10.png)
+![screenshot 10](images/ex3/Screenshot_10.png)
 
 screenshot 10
 ---
-![screenshot 11](images/ex3/screenshot_11.png)
+![screenshot 11](images/ex3/Screenshot_11.png)
 
 screenshot 11
 ---
@@ -212,71 +212,71 @@ screenshot 11
 
 ## **Zadanie 4**
 
-![screenshot 01](images/ex4/screenshot_1.png)
+![screenshot 01](images/ex4/Screenshot_1.png)
 
 screenshot 01
 ---
-![screenshot 02](images/ex4/screenshot_2.png)
+![screenshot 02](images/ex4/Screenshot_2.png)
 
 screenshot 02
 ---
-![screenshot 03](images/ex4/screenshot_3.png)
+![screenshot 03](images/ex4/Screenshot_3.png)
 
 screenshot 03
 ---
-![screenshot 04](images/ex4/screenshot_4.png)
+![screenshot 04](images/ex4/Screenshot_4.png)
 
 screenshot 04
 ---
-![screenshot 05](images/ex4/screenshot_5.png)
+![screenshot 05](images/ex4/Screenshot_5.png)
 
 screenshot 05
 ---
 
 ## **Zadanie 5**
 
-![screenshot 01](images/ex5/screenshot_1.png)
+![screenshot 01](images/ex5/Screenshot_1.png)
 
 screenshot 01
 ---
-![screenshot 02](images/ex5/screenshot_2.png)
+![screenshot 02](images/ex5/Screenshot_2.png)
 
 screenshot 02
 ---
-![screenshot 03](images/ex5/screenshot_3.png)
+![screenshot 03](images/ex5/Screenshot_3.png)
 
 screenshot 03
 ---
-![screenshot 04](images/ex5/screenshot_4.png)
+![screenshot 04](images/ex5/Screenshot_4.png)
 
 screenshot 04
 ---
-![screenshot 05](images/ex5/screenshot_5.png)
+![screenshot 05](images/ex5/Screenshot_5.png)
 
 screenshot 05
 ---
-![screenshot 06](images/ex5/screenshot_6.png)
+![screenshot 06](images/ex5/Screenshot_6.png)
 
 screenshot 06
 ---
-![screenshot 07](images/ex5/screenshot_7.png)
+![screenshot 07](images/ex5/Screenshot_7.png)
 
 screenshot 07
 ---
-![screenshot 08](images/ex5/screenshot_8.png)
+![screenshot 08](images/ex5/Screenshot_8.png)
 
 screenshot 08
 ---
-![screenshot 09](images/ex5/screenshot_9.png)
+![screenshot 09](images/ex5/Screenshot_9.png)
 
 screenshot 09
 ---
 
-![screenshot 10](images/ex5/screenshot_10.png)
+![screenshot 10](images/ex5/Screenshot_10.png)
 
 screenshot 10
 ---
-![screenshot 11](images/ex5/screenshot_11.png)
+![screenshot 11](images/ex5/Screenshot_11.png)
 
 screenshot 11
 ---
@@ -284,52 +284,52 @@ screenshot 11
 
 ## **Zadanie 6**
 
-![screenshot 01](images/ex6/screenshot_1.png)
+![screenshot 01](images/ex6/Screenshot_1.png)
 
 screenshot 01
 ---
-![screenshot 02](images/ex6/screenshot_2.png)
+![screenshot 02](images/ex6/Screenshot_2.png)
 
 screenshot 02
 ---
-![screenshot 03](images/ex6/screenshot_3.png)
+![screenshot 03](images/ex6/Screenshot_3.png)
 
 screenshot 03
 ---
-![screenshot 04](images/ex6/screenshot_4.png)
+![screenshot 04](images/ex6/Screenshot_4.png)
 
 screenshot 04
 ---
-![screenshot 05](images/ex6/screenshot_5.png)
+![screenshot 05](images/ex6/Screenshot_5.png)
 
 screenshot 05
 ---
-![screenshot 06](images/ex6/screenshot_6.png)
+![screenshot 06](images/ex6/Screenshot_6.png)
 
 screenshot 06
 ---
-![screenshot 07](images/ex6/screenshot_7.png)
+![screenshot 07](images/ex6/Screenshot_7.png)
 
 screenshot 07
 ---
-![screenshot 08](images/ex6/screenshot_8.png)
+![screenshot 08](images/ex6/Screenshot_8.png)
 
 screenshot 08
 ---
-![screenshot 09](images/ex6/screenshot_9.png)
+![screenshot 09](images/ex6/Screenshot_9.png)
 
 screenshot 09
 ---
 
-![screenshot 10](images/ex6/screenshot_10.png)
+![screenshot 10](images/ex6/Screenshot_10.png)
 
 screenshot 10
 ---
-![screenshot 11](images/ex6/screenshot_11.png)
+![screenshot 11](images/ex6/Screenshot_11.png)
 
 screenshot 11
 ---
-![screenshot 12](images/ex6/screenshot_12.png)
+![screenshot 12](images/ex6/Screenshot_12.png)
 
 screenshot 12
 ---
